@@ -9,6 +9,8 @@ All operations were carried out CRUD.</br>
 __
 
 Returns the IDs of all the bookings that exist within the API. I have verified with test snippets if the response code is 200, the response time, and if the body matches the string. The env is a variable for the URL </br>
-![ ](E:\QA\it school\curs\hf\postman\1.png)</br>
+![1](https://github.com/DeeKinga/Postman/assets/131695090/c9d0db79-4f5e-4bbe-bd1f-122df00cb686)</br>
+
+
 
 
