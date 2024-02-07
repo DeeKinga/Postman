@@ -19,4 +19,7 @@ Returns a specific booking based on the booking ID provided. I have verified wit
 Creates a new booking in the API.</br>
 ![3](https://github.com/DeeKinga/Postman/assets/131695090/e60b88dc-1f8f-4ff1-b1f4-0e30d19afd24) </br>
 
+**UpdateBooking**</br>
+Updates the booking with ID 95.</br>
+![4](https://github.com/DeeKinga/Postman/assets/131695090/d92f2b2c-2d2c-4dc8-afb9-70deb0f4ce2f)
 
