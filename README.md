@@ -23,3 +23,6 @@ Creates a new booking in the API.</br>
 Updates the booking with ID 95.</br>
 ![4](https://github.com/DeeKinga/Postman/assets/131695090/d92f2b2c-2d2c-4dc8-afb9-70deb0f4ce2f)
 
+**DeleteBooking**</br>
+I have deleted the booking with ID number 95.</br>
+![5](https://github.com/DeeKinga/Postman/assets/131695090/fa30bd58-9684-47b9-b9bf-8002944fd34b)
