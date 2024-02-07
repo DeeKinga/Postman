@@ -15,4 +15,8 @@ Returns the IDs of all the bookings that exist within the API. I have verified w
 Returns a specific booking based on the booking ID provided. I have verified with test snippets if the status code is 200, time response and of the body matches string for first name, last name, total price, deposit paid, booking dates, and additional needs.</br>
 ![2](https://github.com/DeeKinga/Postman/assets/131695090/7879af2d-7218-44fb-bd62-37e069bbe25c)</br>
 
+**Create Booking** </br>
+Creates a new booking in the API.</br>
+![3](https://github.com/DeeKinga/Postman/assets/131695090/e60b88dc-1f8f-4ff1-b1f4-0e30d19afd24) </br>
+
 
